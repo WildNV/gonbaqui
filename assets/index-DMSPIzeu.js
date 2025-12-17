@@ -638,4 +638,4 @@ Error generating stack: `+a.message+`
          .btn-block {
              width: 100%;
          }
-       `})]})};function gy(){return r.jsx(s1,{children:r.jsx(e1,{children:r.jsxs(Da,{path:"/",element:r.jsx(oy,{}),children:[r.jsx(Da,{index:!0,element:r.jsx(dy,{})}),r.jsx(Da,{path:"catalogo",element:r.jsx(hy,{})}),r.jsx(Da,{path:"nosotros",element:r.jsx(vy,{})}),r.jsx(Da,{path:"contacto",element:r.jsx(yy,{})})]})})})}fv.createRoot(document.getElementById("root")).render(r.jsx(D.StrictMode,{children:r.jsx(gy,{})}));
+       `})]})};function gy(){return r.jsx(s1,{basename:"/gonbaqui",children:r.jsx(e1,{children:r.jsxs(Da,{path:"/",element:r.jsx(oy,{}),children:[r.jsx(Da,{index:!0,element:r.jsx(dy,{})}),r.jsx(Da,{path:"catalogo",element:r.jsx(hy,{})}),r.jsx(Da,{path:"nosotros",element:r.jsx(vy,{})}),r.jsx(Da,{path:"contacto",element:r.jsx(yy,{})})]})})})}fv.createRoot(document.getElementById("root")).render(r.jsx(D.StrictMode,{children:r.jsx(gy,{})}));
